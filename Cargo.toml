@@ -3,6 +3,8 @@ authors = ["Meng Wang <mengwanguc@gmail.com>"]
 build = "build.rs"
 name = "rust-mio"
 version = "0.1.0"
+description = "Rust API of Cortx motr ---- a trial"
+license = "MIT OR Apache-2.0"
 
 [build-dependencies]
 bindgen = "0.59.1"
